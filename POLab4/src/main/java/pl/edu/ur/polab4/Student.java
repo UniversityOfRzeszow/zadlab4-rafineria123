@@ -9,6 +9,7 @@ package pl.edu.ur.polab4;
  *
  * @author student
  */
+
 public class Student {
     public String imie;
     public String nazwisko;
